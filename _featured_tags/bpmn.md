@@ -21,7 +21,7 @@ sitemap: false
 ---
 
 - Table of Contents
-  {:toc .large-only}
+{:toc .large-only}
 
 ---
 ## BPMN  Specifications
