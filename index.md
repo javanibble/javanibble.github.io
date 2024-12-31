@@ -13,9 +13,9 @@ featured: true
 - Table of Contents
 {:toc .large-only}
 
-![Java Nibble Logo](/assets/images/logo/logo_long.png)
-
 Welcome to **Java Nibble**, my personal blog where I share insights and experiences from the world of Software Engineering with a focus on Java.
+
+![Java Nibble Logo](/assets/images/logo/logo_long.png)
 
 Thanks for visiting, and I hope you find something useful here!
 
