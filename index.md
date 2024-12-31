@@ -3,10 +3,9 @@ layout: welcome
 title: Beyond Engineering
 cover: true
 selected_posts:
-- personal-development/communication-skills/_posts/2024-01-01-the-coin-feedback-model.md
-- software-engineering/containers/_posts/2023-06-01-minikube-essentials-developer-guide.md
-- software-engineering/data-platform/_posts/2024-03-31-apache-avro-reference-guide.md
-- software-engineering/business-process/_posts/2020-01-01-bpmn-reference-guide.md
+- software-engineering/business-process/_posts/2020-01-02-bpmn-diagrams.md
+- software-engineering/business-process/_posts/2020-01-03-bpmn-elements.md
+
 posts_page: /blog/
 featured: true
 ---
