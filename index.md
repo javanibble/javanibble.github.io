@@ -14,7 +14,7 @@ featured: true
 {:toc .large-only}
 
 <p>
-    <img src="/assets/images/logo/logo.png" alt="Description of image" style="float: left; margin-right: 15px;">
+    <img src="/assets/images/logo/small_logo.png" alt="Description of image" style="float: left; margin-right: 15px;">
     Welcome to <strong>Java Nibble</strong>, my personal blog where I share insights and experiences from the world of Software 
     Engineering.
 </p>
