@@ -13,8 +13,18 @@ featured: true
 - Table of Contents
 {:toc .large-only}
 
-Java Nibble is my personal blog where I am sharing my knowledge and experience related to leadership, leading teams and 
-software architecture. Continuous learning is key to growth.
+Welcome to **Java Nibble**, my personal blog where I share insights and experiences from the world of Software 
+Engineering. 
+
+Here, you'll find posts on a wide range of topics, including Software Architecture, Enterprise 
+Architecture, and leadership in tech. I also dive into the importance of soft skills in the tech industry and how they 
+play a key role in leading successful teams. 
+
+Whether you're a developer, architect, or team leader, I aim to provide valuable content that helps you grow both 
+technically and personally. 
+
+Thanks for visiting, and I hope you find something useful here!
+
 
 ## Featured Posts
 <!--posts-->
