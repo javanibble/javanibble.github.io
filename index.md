@@ -3,8 +3,8 @@ layout: welcome
 title: Java Nibble
 cover: true
 selected_posts:
-- software-engineering/business-process/_posts/2020-01-02-bpmn-diagrams.md
-- software-engineering/business-process/_posts/2020-01-03-bpmn-elements.md
+- software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
+- software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
 
 posts_page: /blog/
 featured: true
