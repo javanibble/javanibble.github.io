@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Beyond Engineering
+title: Java Nibble
 cover: true
 selected_posts:
 - software-engineering/business-process/_posts/2020-01-02-bpmn-diagrams.md
@@ -13,7 +13,8 @@ featured: true
 - Table of Contents
 {:toc .large-only}
 
-Beyond Engineering is my personal blog where I write about what interests me about software engineering especially Java.
+Java Nibble is my personal blog where I am sharing my knowledge and experience related to leadership, leading teams and 
+software architecture. Continuous learning is key to growth.
 
 ## Featured Posts
 <!--posts-->
