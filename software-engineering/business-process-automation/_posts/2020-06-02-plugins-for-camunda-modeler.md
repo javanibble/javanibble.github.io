@@ -2,7 +2,7 @@
 layout: post
 title: "Plugins for Camunda Modeler"
 author: andre
-categories: [ software-engineering, business-process ]
+categories: [ software-engineering, business-process-automation ]
 tags: [camunda]
 image: /assets/images/feature-images/feature-image-camunda.png
 description: The article contains a list of free plugins that can be included in the Camunda Modeler.

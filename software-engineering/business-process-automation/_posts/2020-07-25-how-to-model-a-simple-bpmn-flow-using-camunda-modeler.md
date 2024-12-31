@@ -2,7 +2,7 @@
 layout: post
 title: "How to Model a Simple BPMN Flow using Camunda Modeler"
 author: andre
-categories: [ software-engineering, business-process ]
+categories: [ software-engineering, business-process-automation ]
 tags: [camunda]
 image: /assets/images/feature-images/feature-image-camunda.png
 description: This post contains a step-by-step guide on how to create a simple BPMN flow using Camunda Modeler.

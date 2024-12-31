@@ -2,7 +2,7 @@
 layout: post
 title: "Guide: Build a Spring Boot Application with Camunda BPM Engine"
 author: andre
-categories: [ software-engineering, business-process ]
+categories: [ software-engineering, business-process-automation ]
 tags: [camunda]
 image: /assets/images/feature-images/feature-image-camunda.png
 description: This article contains a step-by-step guide on how to create a simple Spring Boot application containing the Camunda BPM Engine and a simple BPMN process.

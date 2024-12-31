@@ -2,7 +2,7 @@
 layout: post
 title: "Camunda Reference Guide"
 author: andre
-categories: [ software-engineering, business-process ]
+categories: [ software-engineering, business-process-automation ]
 tags: [camunda]
 image: /assets/images/feature-images/feature-image-camunda.png
 description: The Reference Guide serve as a starting guide for Camunda with information, examples and links.

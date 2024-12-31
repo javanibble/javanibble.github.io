@@ -2,7 +2,7 @@
 layout: post
 title: "BPMN 2.0 Diagrams"
 author: andre
-categories: [ software-engineering, business-process ]
+categories: [ software-engineering, business-process-automation ]
 tags: [bpmn]
 image: /assets/images/feature-images/feature-image-bpmn-fundamentals.jpg
 description: Overview of BPMN 2.0 diagram types and their roles in modeling business processes.

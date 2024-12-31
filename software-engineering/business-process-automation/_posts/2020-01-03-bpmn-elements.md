@@ -2,7 +2,7 @@
 layout: post
 title: "BPMN 2.0 Elements"
 author: andre
-categories: [ software-engineering, business-process ]
+categories: [ software-engineering, business-process-automation ]
 tags: [bpmn]
 image: /assets/images/feature-images/feature-image-bpmn-fundamentals.jpg
 description: "Comprehensive guide to BPMN 2.0 elements and notations."
