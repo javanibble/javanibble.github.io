@@ -18,10 +18,7 @@ Engineering.
 
 Here, you'll find posts on a wide range of topics, including Software Architecture, Enterprise 
 Architecture, and leadership in tech. I also dive into the importance of soft skills in the tech industry and how they 
-play a key role in leading successful teams. 
-
-Whether you're a developer, architect, or team leader, I aim to provide valuable content that helps you grow both 
-technically and personally. 
+play a key role in leading successful teams.
 
 Thanks for visiting, and I hope you find something useful here!
 
