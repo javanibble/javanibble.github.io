@@ -37,6 +37,6 @@ integrating automation into their systems effectively.
 * **DMN**: A standard for modeling and automating business decisions within processes.
 
 ---
-## Java Nibble
-Here is a list of all the posts on Apache Avro in this blog, covering topics such as data serialization, schema
-evolution, and integration with platforms like Kafka.
+## Blog Posts (Date)
+The following is the list of blog posts about Business Process Automation, focusing on Camunda, BPMN, and DMN. These 
+articles cover various aspects of process modeling, decision management, and automation using these tools.
