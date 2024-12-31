@@ -10,7 +10,7 @@ slug: software-engineering
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  A description for software engineering...
+  Software Engineering is the disciplined, systematic approach to the design, development, maintenance, and testing of software applications. It involves applying engineering principles to create high-quality software that meets the needs of users while being reliable, scalable, and maintainable.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: false
