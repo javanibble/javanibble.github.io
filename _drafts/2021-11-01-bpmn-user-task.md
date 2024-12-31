@@ -1,0 +1,44 @@
+---
+layout: post
+title: "BPMN User Task"
+author: andre
+categories: [ bpmn ]
+tags: [bpmn, bpmn 2.0, user task]
+image: /assets/images/feature-images/feature-image-bpmn-fundamentals.jpg
+description: "The BPMN User Task article provides a detailed explanation of the user task element, including the BPMN notation, an example diagram and guidelines."
+comments: true
+related_posts:
+- bpmn/_posts/2020-08-29-bpmn-diagrams.md
+- bpmn/_posts/2020-08-30-bpmn-elements.md
+---
+
+- Table of Contents
+{:toc .large-only}
+
+The BPMN User Task article focus on the definition and usage of the user task element as documented in the BPMN 2.0
+specification. The example process diagram illustrates the correct use of the user task. The BPMN Guidelines section
+contains a detailed set of rules that apply to the user task and explains how the element may or may not be used
+within the different BPMN diagrams.
+
+## What is a User Task?
+> "A User Task is a typical “workflow” task where a human performer performs the task with the assistance of a software 
+> application and is scheduled through a task list manager of some sort." ~ [BPMN Specification][1]
+
+## BPMN Notation
+The BPMN specification defines the User Task element using the following description and notation:
+
+| Element | Description | Notation |
+|---------|-------------|:--------:|
+| User Task | A User Task is a typical “workflow” Task where a human performer performs the Task with the assistance of a software application and is scheduled through a task list manager of some sort. | <iconify-icon height=48px data-icon="bpmn:user-task"></iconify-icon> |
+{:.stretch-table}
+BPMN Notation: User Task
+{:.figcaption}
+
+## Finally
+This article provided a detailed explanation of the BPMN User Task element. Follow me on any of the different
+social media platforms, and feel free to leave comments.
+
+## Reference
+* Business Process Model and Notation Specification Version 2.0.2. (2014, January). [https://www.omg.org/spec/BPMN/2.0.2/](https://www.omg.org/spec/BPMN/2.0.2/)
+
+[1]:https://www.omg.org/spec/BPMN/2.0.2/PDF
