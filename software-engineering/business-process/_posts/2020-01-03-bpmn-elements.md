@@ -17,7 +17,7 @@ Business Process Model and Notation (BPMN) 2.0 is a widely used standard for mod
 
 This article provides a comprehensive reference to BPMN 2.0 elements, explaining the various components that make up process models, including their notations and behaviors.
 
-### BPMN Elements 2.0
+### BPMN Elements
 The basic BPMN modelling elements are very similar to flow diagrams. These elements are grouped into five basic 
 categories namely:
 
