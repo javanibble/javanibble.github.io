@@ -40,5 +40,5 @@ Originally developed by the Business Process Management Initiative (BPMI), BPMN 
 * **BPMN 1.0 Specification**: [https://www.omg.org/spec/BPMN/1.0/](https://www.omg.org/spec/BPMN/1.0/)
 
 ---
-## Beyond Engineering Blog
+## Java Nibble Blog
 ere is a list of all the posts on BPMN 2.0 in this blog, covering topics such as types of elements, best practices, and use cases/examples for effective process modeling. 
