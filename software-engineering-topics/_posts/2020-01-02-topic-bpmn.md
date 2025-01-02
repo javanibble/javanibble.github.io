@@ -37,25 +37,9 @@ Originally developed by the Business Process Management Initiative (BPMI), BPMN 
 ## Java Nibble Posts
 The following is the set of articles on the Java Nibble blog about BPMN 2.0:
 
-{% assign post = page %}
 
-{% if page.all_posts %}
-{% if major >= 4 and minor >= 1 %}
-{% assign all_posts = site.posts | where_exp:"post", "page.all_posts contains post.path or page.all_posts contains post.url" %}
-{% else %}
-{% assign all_posts_1 = site.posts | where_exp:"post", "page.all_posts contains post.path" %}
-{% assign all_posts_2 = site.posts | where_exp:"post", "page.all_posts contains post.url" %}
-{% assign all_posts = all_posts_1 | concat:all_posts_2 %}
-{% endif %}
-{% elsif site.hydejack.use_lsi or site.use_lsi %}
-{% assign all_posts = site.all_posts %}
-{% elsif post.categories.first %}
-{% assign all_posts = site.categories[post.categories.first] | where_exp:"post", "post.url != page.url" %}
-{% elsif post.tags.first %}
-{% assign all_posts = site.tags[post.tags.first] | where_exp:"post", "post.url != page.url" %}
-{% else %}
-{% assign all_posts = site.all_posts %}
-{% endif %}
+
+{% assign all_posts = site.tags['bpmn'] | where_exp:"post", "post.url != page.url" %}
 
 {% if all_posts.size > 0 %}
 <aside class="other-projects related mb0" role="complementary">
