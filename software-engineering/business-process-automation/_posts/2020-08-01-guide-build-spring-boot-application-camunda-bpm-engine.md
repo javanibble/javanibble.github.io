@@ -201,7 +201,7 @@ To view the H2 Console, type the following url in your browser while the applica
 After you have typed the above URL in a browser while the application is running, you will be prompted with the login screen. Press the connect button since there is no password specified.
 
 ## Github Code Repo
-The source code used in this example can be found on [Github](https://github.com/andre-mare/camunda-examples/tree/main/basic-bpmn-elements/basic-example).
+The source code used in this example can be found on [Github](https://github.com/javanibble/camunda-examples/tree/main/basic-bpmn-elements/basic-example).
 
 ## Finally
 Congratulations !!! You have successfully created a Camunda BPM Spring Boot Application. Follow me on any of the different social media platforms and feel free to leave comments.
