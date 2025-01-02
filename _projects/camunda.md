@@ -6,8 +6,7 @@ description: >
   Camunda is an open-source platform for workflow and business process automation that supports BPMN for process modeling, CMMN for case management, and DMN for decision management. It allows businesses to design, automate, and monitor complex workflows, improving efficiency and consistency in operations.
 date: 1 Jun 2020
 image: 
-  path: /assets/images/feature-images/feature-image-bpmn-fundamentals.jpg
-
+  path: /assets/images/feature-images/feature-image-camunda.png
 links:
   - title: Link
     url: https://www.javanibble.com/camunda/
