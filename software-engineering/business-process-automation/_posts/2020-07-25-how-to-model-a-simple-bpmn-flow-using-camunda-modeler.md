@@ -23,7 +23,7 @@ The following list defines the technologies and libraries I used to implement th
 ## Code Example
 The code example can be downloaded from Github from the button below. After you have downloaded the code onto your machine, you can open the file in Camunda Modeler.
 
-* [Download Code](https://github.com/andre-mare/camunda-examples/blob/main/basic-bpmn-elements/basic-example/src/main/resources/personal-message.bpmn)
+* [Download Code](https://github.com/javanibble/camunda-examples/blob/main/basic-bpmn-elements/basic-example/src/main/resources/personal-message.bpmn)
 
 ## Step 1: Create a New BPMN Diagram
 The first step is to create a new BPMN Diagram. There are several options to perform this task; the simplest is to make use of the new diagram button and select the `Create new BPMN Diagram` menu option. Alternatively, you can make use of the menu options in the following order:
