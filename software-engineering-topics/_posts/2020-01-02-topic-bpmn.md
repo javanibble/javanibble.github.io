@@ -9,6 +9,8 @@ comments: true
 related_posts:
   - software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
   - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
+  - software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
+  - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
 ---
 
 - Table of Contents
@@ -34,6 +36,6 @@ Originally developed by the Business Process Management Initiative (BPMI), BPMN 
 
 ## Java Nibble Posts
 The following is the set of articles on the Java Nibble blog about BPMN 2.0:
-* [BPMN Diagrams](/software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md)
-* [BPMN Elements](software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md)
+* [BPMN Diagrams](/bpmn-diagrams)
+* [BPMN Elements](/bpmn-elements)
 
