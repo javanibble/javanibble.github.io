@@ -9,6 +9,8 @@ comments: true
 all_posts:  
   - software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
   - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
+  - software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
+  - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
 ---
 
 - Table of Contents
