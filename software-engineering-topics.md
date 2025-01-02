@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: Software Engineering Topics
-show_collection: projects
+show_collection: software-engineering-topics
 description: >
   Software Engineering is the disciplined, systematic approach to the design, development, maintenance, and testing of software applications. It involves applying engineering principles to create high-quality software that meets the needs of users while being reliable, scalable, and maintainable.
 no_groups: true
