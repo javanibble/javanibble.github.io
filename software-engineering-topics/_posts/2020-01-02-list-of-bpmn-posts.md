@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Topic: BPMN 2.0"
+title: "List of BPMN Posts"
 author: andre
 categories: [ software-engineering-topics ]
 image: /assets/images/feature-images/feature-image-bpmn-fundamentals.jpg
@@ -16,10 +16,13 @@ elements used during the modelling process. This also serves as a reference to u
 types and guidelines on each of the elements.
 
 ## What is BPMN?
-> "Business Process Model and Notation has become the de-facto standard for business processes diagrams. It is intended
-> to be used directly by the stakeholders who design, manage and realize business processes, but at the same time be
-> precise enough to allow BPMN diagrams to be translated into software process components. BPMN has an easy-to-use
-> flowchart-like notation that is independent of any particular implementation environment." ~ [BPMN Specification](https://www.omg.org/spec/BPMN/2.0.2/)
+BPMN 2.0 (Business Process Model and Notation 2.0) is a standardised graphical notation for modeling business 
+processes. It provides a comprehensive framework for visually representing workflows and interactions across systems 
+and participants. 
+
+BPMN 2.0 aims to bridge the gap between business process design and technical implementation, ensuring clear 
+communication between business analysts and developers. Its symbols and elements support process documentation, 
+analysis, and automation, making it a versatile tool for optimizing organizational operations.
 
 ## BPMN  Specifications
 Originally developed by the Business Process Management Initiative (BPMI), BPMN has been maintained by the Object Management Group (OMG) since the two organizations merged in 2005. Version 2.0 of BPMN was released in January 2011. Business Process Model and Notation has become the de-facto standard for business processes diagrams.
@@ -31,8 +34,6 @@ Originally developed by the Business Process Management Initiative (BPMI), BPMN 
 
 ## Java Nibble Posts
 The following is the set of articles on the Java Nibble blog about BPMN 2.0:
-
-
 
 {% assign all_posts = site.tags['bpmn'] | where_exp:"post", "post.url != page.url" %}
 
