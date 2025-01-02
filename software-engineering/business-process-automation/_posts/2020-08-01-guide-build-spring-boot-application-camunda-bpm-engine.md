@@ -210,11 +210,11 @@ Congratulations !!! You have successfully created a Camunda BPM Spring Boot Appl
 
 [Spring_Initializr]:https://start.camunda.com/
 
-[project_object_model]:https://github.com/andre-mare/camunda-examples/blob/main/basic-bpmn-elements/basic-example/pom.xml
-[Camunda_Properties]:https://github.com/andre-mare/camunda-examples/blob/main/basic-bpmn-elements/basic-example/src/main/resources/application.yaml
+[project_object_model]:https://github.com/javanibble/camunda-examples/blob/main/basic-bpmn-elements/basic-example/pom.xml
+[Camunda_Properties]:https://github.com/javanibble/camunda-examples/blob/main/basic-bpmn-elements/basic-example/src/main/resources/application.yaml
 
-[Simple_BPMN_Model]: https://www.beyondengineering.io/how-to-model-a-simple-bpmn-flow-using-camunda-modeler/
+[Simple_BPMN_Model]: https://www.javanibble.com/how-to-model-a-simple-bpmn-flow-using-camunda-modeler/
 
-[personal-message-bpmn]:https://github.com/andre-mare/camunda-examples/blob/main/basic-bpmn-elements/basic-example/src/main/resources/personal-message.bpmn
+[personal-message-bpmn]:https://github.com/javanibble/camunda-examples/blob/main/basic-bpmn-elements/basic-example/src/main/resources/personal-message.bpmn
 
 [Camunda_Admin]:http://localhost:8080/app/welcome/default/#!/login
