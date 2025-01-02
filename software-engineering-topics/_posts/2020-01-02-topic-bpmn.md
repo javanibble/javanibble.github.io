@@ -9,6 +9,7 @@ comments: true
 related_posts:
   - software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
   - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
+all_posts:  
   - software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
   - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
 ---
@@ -36,6 +37,21 @@ Originally developed by the Business Process Management Initiative (BPMI), BPMN 
 
 ## Java Nibble Posts
 The following is the set of articles on the Java Nibble blog about BPMN 2.0:
-* [BPMN Diagrams](/bpmn-diagrams)
-* [BPMN Elements](/bpmn-elements)
+
+{% if all_posts.size > 0 %}
+<aside class="other-projects related mb0" role="complementary">
+  <h2>{{ site.data.strings.related_posts | default:"Related Posts" }}</h2>
+  <div class="columns">
+    {% for post in all_posts %}
+      <div class="column column-1-2">
+        {% if post %}
+          {% include_cached pro/post-card.html post=post %}
+        {% else %}
+          Post with path <code>{{ post_path }}</code> not found.
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+</aside>
+{% endif %}
 
