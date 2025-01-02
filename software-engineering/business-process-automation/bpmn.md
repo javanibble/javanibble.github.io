@@ -24,5 +24,6 @@ Originally developed by the Business Process Management Initiative (BPMI), BPMN 
 * **BPMN 1.2 Specification**: [https://www.omg.org/spec/BPMN/1.2/](https://www.omg.org/spec/BPMN/1.2/)
 * **BPMN 1.1 Specification**: [https://www.omg.org/spec/BPMN/1.1/](https://www.omg.org/spec/BPMN/1.1/)
 * **BPMN 1.0 Specification**: [https://www.omg.org/spec/BPMN/1.0/](https://www.omg.org/spec/BPMN/1.0/)
+
 ---
 
