@@ -6,3 +6,6 @@ description: >
   This is the list of Software Engineering Topics.
 no_groups: true
 ---
+
+> You can make a quote "pop out".
+{:.lead}

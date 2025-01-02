@@ -13,3 +13,8 @@ links:
 sitemap: false
 ---
 
+> Explore expert insights, best practices, and the latest trends in workflow automation and BPM with Camunda's blog—your go-to resource for process optimization and innovation.
+{:.lead}
+
+All articles related to Camunda can be viewed as part of [Business Process Automation](/business-process-automation/) or [Camunda](/camunda/).
+{:.note title="Blog List"}
