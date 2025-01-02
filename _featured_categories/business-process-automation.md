@@ -19,24 +19,3 @@ no_groups: false
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 ---
-
-
-- Table of Contents
-{:toc .large-only}
-
----
-## BPA with Camunda
-Business Process Automation (BPA) streamlines workflows by automating repetitive tasks and ensuring consistent 
-execution. Using Camunda, organisations can leverage BPMN 2.0 and DMN to model, execute, and optimise processes, 
-integrating automation into their systems effectively.
-
-**Key Points:**
-* **BPA**: Enhances efficiency by automating tasks and standardizing workflows.
-* **Camunda**: A robust platform for executing BPMN 2.0 models, enabling scalable automation.
-* **BPMN 2.0**: Provides a clear and standardized approach to process modeling.
-* **DMN**: A standard for modeling and automating business decisions within processes.
-
----
-## Blog Posts (Date)
-The following is the list of blog posts about Business Process Automation, focusing on Camunda, BPMN, and DMN. These 
-articles cover various aspects of process modeling, decision management, and automation using these tools.

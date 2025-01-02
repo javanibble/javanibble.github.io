@@ -19,11 +19,3 @@ no_groups: false
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 ---
-
-- Table of Contents
-{:toc .large-only}
-
-## Blog Posts (Date)
-The following is the list of blog posts about Software Engineering, specifically focused on Java and its ecosystem. 
-These articles cover a wide range of topics including Java programming, Spring framework, Kafka integration, and other 
-related technologies and tools used in Java development.
