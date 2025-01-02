@@ -6,11 +6,6 @@ categories: [ software-engineering-topics ]
 image: /assets/images/feature-images/feature-image-bpmn-fundamentals.jpg
 description: 'Master BPMN 2.0: Simplify process modeling with this powerful standard for visualizing, analyzing, and optimizing business workflows effectively.'
 comments: true
-all_posts:  
-  - software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
-  - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
-  - software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
-  - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
 ---
 
 - Table of Contents
