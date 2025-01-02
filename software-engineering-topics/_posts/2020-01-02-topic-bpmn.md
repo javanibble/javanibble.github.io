@@ -6,9 +6,6 @@ categories: [ software-engineering-topics ]
 image: /assets/images/feature-images/feature-image-bpmn-fundamentals.jpg
 description: 'Master BPMN 2.0: Simplify process modeling with this powerful standard for visualizing, analyzing, and optimizing business workflows effectively.'
 comments: true
-related_posts:
-  - software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
-  - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
 all_posts:  
   - software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
   - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
@@ -40,28 +37,28 @@ The following is the set of articles on the Java Nibble blog about BPMN 2.0:
 
 {% assign post = page %}
 
-{% if page.related_posts %}
+{% if page.all_posts %}
 {% if major >= 4 and minor >= 1 %}
-{% assign related_posts = site.posts | where_exp:"post", "page.related_posts contains post.path or page.related_posts contains post.url" %}
+{% assign all_posts = site.posts | where_exp:"post", "page.all_posts contains post.path or page.all_posts contains post.url" %}
 {% else %}
-{% assign related_posts_1 = site.posts | where_exp:"post", "page.related_posts contains post.path" %}
-{% assign related_posts_2 = site.posts | where_exp:"post", "page.related_posts contains post.url" %}
-{% assign related_posts = related_posts_1 | concat:related_posts_2 %}
+{% assign all_posts_1 = site.posts | where_exp:"post", "page.all_posts contains post.path" %}
+{% assign all_posts_2 = site.posts | where_exp:"post", "page.all_posts contains post.url" %}
+{% assign all_posts = all_posts_1 | concat:all_posts_2 %}
 {% endif %}
 {% elsif site.hydejack.use_lsi or site.use_lsi %}
-{% assign related_posts = site.related_posts %}
+{% assign all_posts = site.all_posts %}
 {% elsif post.categories.first %}
-{% assign related_posts = site.categories[post.categories.first] | where_exp:"post", "post.url != page.url" %}
+{% assign all_posts = site.categories[post.categories.first] | where_exp:"post", "post.url != page.url" %}
 {% elsif post.tags.first %}
-{% assign related_posts = site.tags[post.tags.first] | where_exp:"post", "post.url != page.url" %}
+{% assign all_posts = site.tags[post.tags.first] | where_exp:"post", "post.url != page.url" %}
 {% else %}
-{% assign related_posts = site.related_posts %}
+{% assign all_posts = site.all_posts %}
 {% endif %}
 
-{% if related_posts.size > 0 %}
+{% if all_posts.size > 0 %}
 <aside class="other-projects related mb0" role="complementary">
   <div class="columns">
-    {% for post in related_posts limit:2 %}
+    {% for post in all_posts %}
       <div class="column column-1-2">
         {% if post %}
           {% include_cached pro/post-card.html post=post %}
