@@ -1,19 +1,22 @@
 ---
 layout: post
-title: "List of BPMN Posts"
+title: "Articles about BPMN 2.0"
 author: andre
 categories: [ software-engineering-topics ]
 image: /assets/images/feature-images/feature-image-bpmn-fundamentals.jpg
-description: 'Master BPMN 2.0: Simplify process modeling with this powerful standard for visualizing, analyzing, and optimizing business workflows effectively.'
+description: 'A collection of articles and references on the Business Process Management Notation 2.0.'
 comments: true
 ---
 
 - Table of Contents
 {:toc .large-only}
 
-The BPMN 2.0 Topic page contains information about the different types of BPMN diagrams together with the set of
-elements used during the modelling process. This also serves as a reference to understand the different bpmn elements,
-types and guidelines on each of the elements.
+Welcome to the BPMN 2.0 collection on Java Nibble! Here, you'll find a curated set of posts exploring the 
+fundamentals, best practices, and advanced techniques of Business Process Model and Notation. 
+
+Whether you're a beginner looking to understand process modeling or an expert refining your skills, this page offers 
+insights to help you visualize, analyze, and optimize workflows effectively.
+
 
 ## What is BPMN?
 BPMN 2.0 (Business Process Model and Notation 2.0) is a standardised graphical notation for modeling business 
@@ -32,7 +35,7 @@ Originally developed by the Business Process Management Initiative (BPMI), BPMN 
 * **BPMN 1.1 Specification**: [https://www.omg.org/spec/BPMN/1.1/](https://www.omg.org/spec/BPMN/1.1/)
 * **BPMN 1.0 Specification**: [https://www.omg.org/spec/BPMN/1.0/](https://www.omg.org/spec/BPMN/1.0/)
 
-## Java Nibble Posts
+## Collection of Posts
 The following is the set of articles on the Java Nibble blog about BPMN 2.0:
 
 {% assign all_posts = site.tags['bpmn'] | where_exp:"post", "post.url != page.url" %}
