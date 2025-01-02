@@ -10,10 +10,6 @@ image:
 links:
   - title: Link
     url: https://www.javanibble.com/camunda/
-accent_color: '#4fb1ba'
-accent_image:
-  background: '#193747'
-theme_color: '#193747'
 sitemap: false
 ---
 
