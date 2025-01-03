@@ -2,7 +2,7 @@
 layout: post
 title: "Simple Moving Average (SMA) Indicator"
 author: andre
-categories: [ trading, technical-analysis ]
+categories: [ algorithmic-trading, technical-analysis ]
 image: /assets/images/posts/simple-moving-average-indicator/simple-moving-average.png
 description: "Exploring the Simple Moving Average (SMA) Indicator Using the Python TA-Lib Library"
 comments: true
