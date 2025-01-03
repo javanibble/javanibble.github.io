@@ -3,9 +3,12 @@ layout: welcome
 title: Java Nibble
 cover: true
 selected_posts:
-- software-engineering/business-process-automation/_posts/2020-01-02-bpmn-diagrams.md
+- software-architecture/architecture-patterns/_posts/2024-06-01-event-carried-state-transfer-pattern.md
+- software-engineering/data-platform/_posts/2023-01-04-setup-a-single-node-and-multi-broker-cluster.md
+- software-engineering/data-platform/_posts/2024-04-04-apache-avro-data-format.md
+- software-engineering/containers/_posts/2023-06-01-minikube-essentials-developer-guide.md
+- software-engineering/containers/_posts/2024-03-01-colima-essentials-developer-guide.md
 - software-engineering/business-process-automation/_posts/2020-01-03-bpmn-elements.md
-
 posts_page: /blog/
 featured: true
 ---
