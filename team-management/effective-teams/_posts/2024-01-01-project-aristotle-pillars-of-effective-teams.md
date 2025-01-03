@@ -2,7 +2,7 @@
 layout: post
 title: "Project Aristotle: The Pillars of Effective Software Engineering Teams"
 author: andre
-categories: [ software-management, effective-teams ]
+categories: [ team-management, effective-teams ]
 tags: []
 image: /assets/images/unsplash/austin-distel-wD1LRb9OeEo-unsplash.jpg
 description: "The Five Key Dynamics of Effective Teams Uncovered by Google"
