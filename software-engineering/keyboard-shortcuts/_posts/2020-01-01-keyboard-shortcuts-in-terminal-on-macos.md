@@ -3,7 +3,6 @@ layout: post
 title: "Keyboard Shortcuts in Terminal on Mac"
 author: andre
 categories: [ software-engineering, keyboard-shortcuts ]
-tags: [macos-terminal]
 image: /assets/images/feature-images/feature-image-keyboard.jpg
 description: This post provides a quick reference to the keyboard shortcuts for the Terminal application on Mac.
 comments: true
