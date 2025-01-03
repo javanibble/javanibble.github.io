@@ -53,10 +53,10 @@ menu:
     url:               /
   - title:             Engineering
     url:               /software-engineering-topics/
-  - title:             Software Architecture
+  - title:             Architecture
     url:               /software-architecture/
   - title:             Leading Teams
-    url:               /software-management/
+    url:               /team-management/
   - title:             Soft Skills
     url:               /personal-development/
   - title:             Blog
